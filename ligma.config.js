@@ -29,6 +29,7 @@ module.exports = {
         "Map",
         "MinHeap",
         "RingBuffer",
+        "ValidAnagram",
     ],
 }
 

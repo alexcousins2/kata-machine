@@ -315,5 +315,12 @@ module.exports = {
         args: "graph: WeightedAdjacencyMatrix, source: number, needle: number",
         return: "number[] | null",
     },
+
+    ValidAnagram: {
+        type: "fn",
+        fn: "isAnagram",
+        args: "s: string, t: string",
+        return: "boolean",
+    },
 };
 

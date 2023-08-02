@@ -6,6 +6,7 @@ module.exports = {
         "BinarySearchList",
         "TwoCrystalBalls",
         "BubbleSort",
+        "InsertionSort",
         "SinglyLinkedList",
         "DoublyLinkedList",
         "Queue",
@@ -20,10 +21,14 @@ module.exports = {
         "CompareBinaryTrees",
         "DFSOnBST",
         "DFSGraphList",
+        "BFSGraphList",
         "Trie",
         "BFSGraphMatrix",
+        "DijkstraList",
+        "PrimsList",
         "Map",
         "MinHeap",
+        "RingBuffer",
     ],
 }
 
